@@ -1,0 +1,1 @@
+An eCommerce app in React Native, a cross-platform mobile application that allows users to browse products, add them to a shopping cart, and make online purchases. It's built using React Native for the client side and can integrate with server-side services for handling product information and transactions.
